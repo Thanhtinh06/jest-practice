@@ -1,0 +1,17 @@
+{
+  "name": "jest-practices",
+  "version": "0.0.1",
+  "description": "Jest practices",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": ["javascript", "unit testing", "jest"],
+  "author": "Nguyen Xuan Huy",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@types/jest": "^24.0.17",
+    "jest": "^24.8.0"
+  }
+}
