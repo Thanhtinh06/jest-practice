@@ -8,5 +8,8 @@ export const getBestPlayer = () => {
         bestPlayer = player;
       }
     });
+    return bestPlayer;
   });
 };
+
+
